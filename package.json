@@ -1,7 +1,7 @@
 {
 	"name": "vite-sveltekit-template-ts",
-	"version": "0.0.1",
-	"description": "Minimal code snippets to test stuff",
+	"version": "0.0.0",
+	"description": "Sveltekit template - typescript - lint/format",
 	"private": true,
 	"type": "module",
 	"repository": {
